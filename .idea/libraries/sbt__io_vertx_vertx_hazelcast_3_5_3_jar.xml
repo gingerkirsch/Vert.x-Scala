@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.vertx:vertx-hazelcast:3.5.3:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.vertx/vertx-hazelcast/jars/vertx-hazelcast-3.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/io.vertx/vertx-hazelcast/srcs/vertx-hazelcast-3.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
