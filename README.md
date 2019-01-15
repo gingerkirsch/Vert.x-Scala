@@ -1,23 +1,3 @@
-This is a quickstart for a Vert.x Scala project. It provides a few examples for doing 
-unit-tests.
-
-It comes with `vertx-core` and `vertx-web` so you are good to go for a little REST-project.
-Take your time and take a look.
-
-# Scala console
-
-After launching `sbt` you can switch to the _scala-console_. There we took care that you
-get an already initialized Vert.x-instance and the necessary imports to start playing around.
-
-```
-sbt
-> console
-scala> vertx.deployVerticle(nameForVerticle[vertx.scala.myapp.HttpVerticle])
-scala> vertx.deploymentIDs
-```
-
-From here you can freely interact with the Vert.x API inside the sbt-scala-shell.
-
 
 # Fat-jar
 
